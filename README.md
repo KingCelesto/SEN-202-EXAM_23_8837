@@ -8,5 +8,5 @@ SEN 202 LAB EXAM
 
 ### Questions Answered
 - Question 1
-- Question 2
+- Question 2a(part of it)
 - Question 5
