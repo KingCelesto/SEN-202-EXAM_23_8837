@@ -5,3 +5,8 @@ SEN 202 LAB EXAM
 
 ### Authors
 [Charles Izuchukwu David](https://github.com/KingCelesto) VUG/SEN/23/8837.
+
+### Questions Answered
+- Question 1
+- Question 2
+- Question 3
